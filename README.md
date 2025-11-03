@@ -338,6 +338,8 @@ If you find our survey useful for your research, please cite the following paper
 | VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding | [Paper](https://arxiv.org/abs/2412.03735) |  |  |  |
 | TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models | [Paper](https://arxiv.org/abs/2410.23266) |  |  |  |
 | TemporalBench: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models | [Paper](https://arxiv.org/abs/2410.10818) |  |  |  |
+| On the Consistency of Video Large Language Models in Temporal Comprehension | [Paper](https://arxiv.org/abs/2411.12951) | [Github](https://github.com/minjoong507/Consistency-of-Video-LLM) | [Dataset](https://huggingface.co/datasets/mjjung/Consistency-Evaluation-for-Video-LLMs) | CVPR 2025 |
+| EgoExo-Con: Exploring View-Invariant Video Temporal Understanding | [Paper](https://arxiv.org/abs/2510.26113) | | | |
 
 ### Related Surveys
 
